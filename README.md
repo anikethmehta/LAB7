@@ -24,3 +24,7 @@ https://github.com/anikethmehta/LAB10/blob/main/code_part2_2.png
 https://github.com/anikethmehta/LAB10/blob/main/code_part2_3.png
 
 https://github.com/anikethmehta/LAB10/blob/main/code_part2_4.png
+
+Output:
+
+https://github.com/anikethmehta/LAB10/blob/main/output_part1.png
