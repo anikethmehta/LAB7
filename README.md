@@ -17,3 +17,5 @@ https://github.com/anikethmehta/LAB10/blob/main/code_part1_3.png
 https://github.com/anikethmehta/LAB10/blob/main/code_part1_4.png
 
 https://github.com/anikethmehta/LAB10/blob/main/code_part2_1.png
+
+https://github.com/anikethmehta/LAB10/blob/main/code_part2_2.png
