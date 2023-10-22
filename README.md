@@ -7,3 +7,5 @@
 ### ***Algorithm*** :
 ### ***Explanation*** :
 ### ***Output Screenshot*** :
+Code:
+https://github.com/anikethmehta/LAB10/blob/main/code_part1_1.png
