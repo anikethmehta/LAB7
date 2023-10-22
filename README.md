@@ -30,3 +30,5 @@ Output:
 https://github.com/anikethmehta/LAB10/blob/main/output_part1.png
 
 https://github.com/anikethmehta/LAB10/blob/main/output_part2.png
+
+https://github.com/anikethmehta/LAB10/blob/main/excel_output_part2.png
