@@ -1,4 +1,5 @@
-### ***Title*** : LAB10
+### ***Date*** : 21-25 September 2023
+### ***Title*** : LAB7
 ### ***Aim*** : 
 (1) Reading from an xcel(.csv) file Name and Age using r(read) mode and storing as structure using malloc dynamic memory allocation
 
